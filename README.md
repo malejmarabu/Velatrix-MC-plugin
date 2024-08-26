@@ -1,6 +1,6 @@
 # Velatrix Minecraft plugin
 ![Latest version](https://img.shields.io/github/v/release/malejmarabu/Velatrix-MC-plugin?display_name=release&style=social&label=Latest%20version
-)	![Plugin downloads](https://img.shields.io/github/downloads/malejmarabu/Velatrix-MC-plugin/total?style=social&label=Total%20downloads)
+)  ![Plugin downloads](https://img.shields.io/github/downloads/malejmarabu/Velatrix-MC-plugin/total?style=social&label=Total%20downloads)  
 ![Plugin stars](https://img.shields.io/github/stars/malejmarabu/Velatrix-MC-plugin?style=social)
 
 Velatrix is a Spigot plugin designed to monitor your Minecraft server and track player activity in real-time. It provides users with a detailed overview of players and the ability to chat even when they are not playing.
