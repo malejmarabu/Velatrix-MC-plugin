@@ -49,7 +49,7 @@ monitor:
   APIToken: "YOUR TOKEN"
 
 live_chat:
-  enabled: false;
+  enabled: false
   port: 0
 ```
 In this `config.yml`, replace the `APIToken` and `serverID` values with the values you obtained when you registered the server in step 5.
