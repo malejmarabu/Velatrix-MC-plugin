@@ -1,8 +1,12 @@
 # Documentation for Velatrix plugin
 
+In this documentation you will learn how to properly use and configure the Velatrix plugin.
+
+[TOCM]
+
 ## Server monitoring setup
 
-After installing Velatrix plugin and starting the server, the `config.yml` configuration file is generated in `plugins/VelatrixMC` directory. If the `config.yml` file has been generated, you're ready for the next steps in which you register your server to the system and configure it correctly, but if this doesn't happen, please visit our [Discord server](https://discord.gg/server).
+After installing Velatrix plugin and starting the server, the `config.yml` configuration file is generated in `plugins/VelatrixMC` directory. If the `config.yml` file has been generated, you're ready for the next steps in which you register your server to the system and configure it correctly, but if this doesn't happen, please visit our [Discord server](https://discord.gg/X6tH34vC5X).
 
 ### Step 1 - Go to Velatrix website
 Go to [Server Registration](https://velatrix.xyz/create/) to continue with the following 5 steps.
