@@ -2,7 +2,11 @@
 
 In this documentation you will learn how to properly use and configure the Velatrix plugin.
 
-[TOCM]
+- [**Server monitoring setup**](#server-monitoring-setup)
+- [**Live setup**](#live-chat-setup)
+- [**Plugin usage**](#plugin-usage)
+
+---
 
 ## Server monitoring setup
 
@@ -56,3 +60,11 @@ live_chat:
 
 ### Step 8 - Enjoy
 After all those brutally complicated steps, you can finally click Finish on step 5, which will take you to your server page, and if you want, you can additionally set up a live chat.
+
+---
+
+## Live chat setup
+
+---
+
+## Plugin usage
