@@ -18,17 +18,26 @@ Go to [Server Registration](https://velatrix.xyz/create/) to continue with the f
 ### Step 2 - Tell us your server IP
 Before entering the IP of your server, make sure your server is running! If it is, continue entering this IP in the box in step 1 and click Next. (**WARNING!! YOU HAVE ONLY A LIMITED NUMBER OF ATTEMPTS TO ENTER THE CORRECT IP AND THEN THE OPTION WILL BE BLOCKED FOR A WHILE!**)
 
+![](./assets/STEP1.png) ![](./assets/NEXT.png)
+
 ### Step 3 - Name your server
 Choose a name for your server and then enter it in the box in step 2 and click Next.
+
+![](./assets/STEP2.png) ![](./assets/NEXT.png)
 
 ### Step 4 - Choose available URL for your server
 Choose some free URL to access your page for your server and then enter it in the box in step 3 and continue by clicking Next.
 
+![](./assets/STEP3.png) ![](./assets/NEXT.png)
+
 ### Step 5 - Specify owner
 Then we will need to know the email address of the server owner as we may need to contact you. Enter the server owner's email in the box in step 4 and then click Create to get the server registration ID and token for your server.
 
+![](./assets/STEP4.png) ![](./assets/CREATE.png)
+
 ### Step 6 - Complete registration
 On step 5 it is important not to do anything prematurely, so don't click on anything or close the page wait for it and use the data on it next step.
+![](./assets/STEP5.png)
 
 ### Step 7  - Edit `config.yml`
 This is how your `config.yml` should look like before any modifications:
@@ -61,6 +70,7 @@ live_chat:
 ### Step 8 - Enjoy
 After all those brutally complicated steps, you can finally click Finish on step 5, which will take you to your server page, and if you want, you can additionally set up a live chat.
 
+![](./assets/FINISH.png)
 ---
 
 ## Live chat setup
